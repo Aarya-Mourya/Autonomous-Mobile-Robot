@@ -1,5 +1,4 @@
-# Intelligent Autonomous Mobile Robot with Integrated Visual &amp; Sensor-Based Navigation 
-# 🤖 Intelligent Autonomous Mobile Robot with Integrated Visual & Sensor-Based Navigation
+# Intelligent Autonomous Mobile Robot with Integrated Visual & Sensor-Based Navigation
 
 An open-source robotics platform built using ROS2 Humble, designed for adaptive navigation, SLAM, and vision-based object tracking. This project leverages low-cost hardware and powerful software to build a scalable educational and research robot capable of navigating dynamic environments.
 
